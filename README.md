@@ -1,5 +1,5 @@
 # Algorithm_utilization
-Data Science, AI에 주로 활용되는 주요 알고리즘 구현 및 응용
+Data Science, AI에 주로 활용되는 주요 알고리즘 구현 및 응용  
 3학년 1학기 '알고리즘 응용'과목 실습 과제  
   
 
