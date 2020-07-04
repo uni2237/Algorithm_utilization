@@ -9,7 +9,8 @@ Data Science, AI에 주로 활용되는 주요 알고리즘 구현 및 응용
 5. plotly 사용하여 시각화
 6. decision tree (kaggle의 'titanic')
 7. 딥러닝 - 이미지 분류 문제 해결 (kaggle의 'MNIST') - pytorch사용
-8. 딥러닝 - 감정 분석 문제 해결 - 단어 임베딩,  RNN구현 (kaggle의 'sentiment analysis on movie reviews') 
+8. 딥러닝 - 감정 분석 문제 해결 - 단어 임베딩,  RNN구현  
+(kaggle의 'sentiment analysis on movie reviews') 
 9. greedy search, beam search 
 10. Fourier Transform 
 
